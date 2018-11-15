@@ -10,6 +10,7 @@ namespace Githubhallo
             Console.WriteLine("Hallo World!");
 
             Console.WriteLine("My name is Ofelia");
+            System.Console.WriteLine("That is my name too!");
         }
     }
 }
